@@ -12,24 +12,16 @@ This is a Flutter  application developed as part of a coding challenge. The appl
 - Aesthetic user interface for a good user experience
 
 ## Screenshots
-<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/5807a876-8d5d-4094-918a-a80f9522a195" width="50%"  alt="Screenshot 1">
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/5807a876-8d5d-4094-918a-a80f9522a195" width="30%"  alt="Screenshot 1">
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/9dbd9d1f-a08c-4806-a81d-65ee41fd73cc" width="30%"  alt="Screenshot 2">
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/74c72979-fea7-4623-a6c0-aaa03dff3de8" width="30%"  alt="Screenshot 3">
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/4ace609c-8eaa-4182-aefe-dd78aa0e7747" width="30%"  alt="Screenshot 4">
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/847f8ae3-f47d-40e8-8b0e-a53f09c25040" width="30%"  alt="Screenshot 5">
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/7c70c6e0-6096-4568-aff7-fc5b852438b9" width="30%"  alt="Screenshot 6">
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/568a8489-7f47-4518-97ab-3c8941b168b1" width="30%"  alt="Screenshot 7">
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/5ca4e5e7-f38c-447a-be57-9572c08a368c" width="30%"  alt="Screenshot 8">
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 40 28](https://github.com/MyaThanHtet/my_card/assets/50415966/5807a876-8d5d-4094-918a-a80f9522a195)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 40 51](https://github.com/MyaThanHtet/my_card/assets/50415966/9dbd9d1f-a08c-4806-a81d-65ee41fd73cc)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 40 59](https://github.com/MyaThanHtet/my_card/assets/50415966/74c72979-fea7-4623-a6c0-aaa03dff3de8)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 41 09](https://github.com/MyaThanHtet/my_card/assets/50415966/4ace609c-8eaa-4182-aefe-dd78aa0e7747)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 42 14](https://github.com/MyaThanHtet/my_card/assets/50415966/847f8ae3-f47d-40e8-8b0e-a53f09c25040)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 43 00](https://github.com/MyaThanHtet/my_card/assets/50415966/7c70c6e0-6096-4568-aff7-fc5b852438b9)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 43 09](https://github.com/MyaThanHtet/my_card/assets/50415966/568a8489-7f47-4518-97ab-3c8941b168b1)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 43 21](https://github.com/MyaThanHtet/my_card/assets/50415966/5ca4e5e7-f38c-447a-be57-9572c08a368c)
-
+[![Watch the screen recording video](https://img.youtube.com/vi/GUXgSs-i_FQ/0.jpg)](https://youtu.be/GUXgSs-i_FQ)
 
 ## Getting Started
 
