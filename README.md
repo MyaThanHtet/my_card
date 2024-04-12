@@ -12,6 +12,7 @@ This is a Flutter  application developed as part of a coding challenge. The appl
 - Aesthetic user interface for a good user experience
 
 ## Screenshots
+<img src="https://github.com/MyaThanHtet/my_card/assets/50415966/5807a876-8d5d-4094-918a-a80f9522a195" width="50%"  alt="Screenshot 1">
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-13 at 02 40 28](https://github.com/MyaThanHtet/my_card/assets/50415966/5807a876-8d5d-4094-918a-a80f9522a195)
 
