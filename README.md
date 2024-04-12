@@ -21,6 +21,7 @@ This is a Flutter  application developed as part of a coding challenge. The appl
 <img src="https://github.com/MyaThanHtet/my_card/assets/50415966/568a8489-7f47-4518-97ab-3c8941b168b1" width="30%"  alt="Screenshot 7">
 <img src="https://github.com/MyaThanHtet/my_card/assets/50415966/5ca4e5e7-f38c-447a-be57-9572c08a368c" width="30%"  alt="Screenshot 8">
 
+## Screen Recording Video
 [![Watch the screen recording video](https://img.youtube.com/vi/GUXgSs-i_FQ/0.jpg)](https://youtu.be/GUXgSs-i_FQ)
 
 ## Getting Started
